@@ -10,3 +10,7 @@
 1. [Testeando la accesibilidad web](doc/6-testing.md)
 1. [Herramientas](doc/7-herramientas.md)
 1. [Pa11y](doc/8-pa11y.md)
+
+---
+
+1. [Taller AW](taller/taller.md)
